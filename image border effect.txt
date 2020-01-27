@@ -1,0 +1,20 @@
+	Image property 2
+imgage{
+             padding: 10px;
+             border: blck 2px solid;
+             background-color:yellow; }
+
+	OR
+imgage{
+             padding: 10px;
+             border: blck 2px solid;
+             //display block;
+             background-color:yellow; }
+             
+ 	OR
+imgage{
+             padding: 10px;
+             border: blck 2px solid;
+             display block;
+             background-color:yellow; }
+	

@@ -1,0 +1,56 @@
+Navication  Horizontal
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="nav.css">
+</head>
+<body>
+
+<div id="nav">
+
+<ul> 
+	<li><a href="">Home</a></li>
+	<li><a href="">Links</a></li>
+	<li><a href="">Forum</a></li>
+	<li><a href="">About</a></li>
+</ul>
+ 
+</body>
+</html>
+
+CSS
+
+#nav {
+	background-color: darkgreen;
+	height: 35px;
+	font-size: 25px;
+	font-weight: bold;
+	font: Tahoma;
+}
+
+#nav ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	text-align: center;
+}
+
+#nav li {
+	display: inline;
+	padding: 15px;
+	vertical-align: middle;
+}
+
+#nav a {
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+	color: white;
+	vertical-align: middle;
+}
+
+#nav a:hover {
+	color: black;
+	background-color: white;
+}

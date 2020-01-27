@@ -1,0 +1,120 @@
+CSS Layout 4 Adding Sidebar
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="nav.css">
+</head>
+<body>
+
+	<div id="header">
+	</div>
+
+	<div id="navbar">
+	</div> 
+<div class="sideright">
+
+<h2> Lecture Dates </h2>
+
+<p> 11/07 - Lecture on Caesar </p>
+<p> 11/07 - Lecture on Hannibal </p>
+<p> 11/07 - Lecture on Alexander </p>
+<p> 11/07 - Lecture on Napolean </p>
+<p> 11/07 - Lecture on Sripio </p>
+
+</div>
+
+
+	<div class="main">
+
+<h1> LITTLE INFORMATION ABOUT MY SELF </h1>
+<p>
+I respond to Joseph K. Asante. Stay in Nsawam in the Eastern Region.
+I am sincere, dedicated person with a Virtues woman and a beautiful baby.  I enjoy reading and teaching mostly. These has given me more knowledge that has strengthened my teaching and presentation skills.
+I have been successful at raising and teaching younger people in every aspect of life.
+I was born in 1989, 4th February, at Kwawu Mpraeso where I pursue Primary and Secondary School.
+Mr. Andrew Asante and Mrs. Beatrice Boaduwaah are my parents with Eight children. Six Female and Two Male which I happen to be the 5th.
+However, I enrolled in Affabico University College where I obtain my Diploma in Biblical Studies, I therefore further to Degree, Masters and Doctorate at International Christian University (ICU). I also study IT at Soul Food ICT College where I obtain Diploma in Networking. It had been my heart desire to become a software developer and glory be to God I am now a student at Codetrain where am perceiving my dream as a programmer. I am currently a lecturer and principal of Glorious Gospel Bible College. 
+	
+</p>
+
+<h1> ACKNOWLEDGEMENT AND THANKS GIVEN </h1>
+<p>
+I would like to sincerely thank my supervisor, Apostle Dr. Joseph Asante, for his guidance and support throughout this study and grateful for his discussion and interpretation of some
+
+results presented in academics. My special thanks to mine one and only guru Apostle Daniel 
+
+Ebenezer Amuzu especially his confidence in me and motivation of my life, I express my 
+
+heartfelt gratefulness for his guide and support that I believed I learned from the best. 
+
+My special thanks to Dr. Joseph Franklyn Mawu for serving as not only a lecturer but a Father in my life and succession a special way, and not forgotten Rev. Apostle Nana Openg Junior for their motivational words and complements.
+Various Academic Deans of faculties of I.C.U and AFFABICO for their tiredness motivational efforts they gave me as a student and also for God's work. 
+To all my friends, thank you for your understanding and encouragement in my life.
+
+God bless you all. Amen.
+</p>
+</div>
+
+
+
+
+</body>
+</html> 
+
+CSS
+
+body {
+	background-color: #9c9f84;
+	margin-right: 0px;
+	font-family: Verdana, Geogia, serif;
+	font-style: 14px;
+}
+
+#header {
+	background-color: #5c755e;
+	margin: 10px;
+	height: 90px;	
+	border-radius: 5px;
+}	
+
+#navbar {
+	background-color: #5c755e;
+	margin: 10px;
+	height: 35px;
+	border-radius: 5px;
+}
+
+.main {
+	background-color: #e5e4d7;
+	margin-left: 10px;
+	margin-right: 320px;
+	margin-top: 10px;
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 110%;
+}
+
+h1 {
+	font-style: 120%;
+	color: #Ce282e;
+}
+
+h2 {
+	font-style: 120%;
+	color: darkblue;
+}
+
+.sideright {
+	background-color: #e5e4d7;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	border-radius: 10px; 
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 105%;
+	float: right;
+	width: 260px;
+}

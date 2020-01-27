@@ -1,0 +1,3 @@
+	Background image property
+
+body{background-image: url(cloud.gif);}

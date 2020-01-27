@@ -1,0 +1,37 @@
+CSS Effect Adding Shahow to your Text
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="nav.css">
+</head>
+<body>
+
+<p id="text1"> Some text in a paragraph </p>
+
+<br><br><br>
+
+<p id="text2"> Some text in a paragraph </p>
+
+
+</body>
+</html> 
+
+CSS
+
+#text1 {
+	text-align: center;
+	font: bold 60px Helvetical;
+	text-shadow: 3px 3px 5px orange,
+				 6px 6px 10px blue;
+
+}
+
+#text2 {
+	text-align: center;
+	font: bold 60px Helvetical;
+	text-shadow: 6px 6px 10px rgba(0,0,255,0.3);
+}
+	
+	

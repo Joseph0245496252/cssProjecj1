@@ -1,0 +1,32 @@
+CSS Effect Adding Shadow to you  Block /Box Element
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="nav.css">
+</head>
+<body>
+
+<div id="box1"> </div>
+
+</body>
+</html> 
+
+CSS
+
+#box1 {
+	width: 600px;
+	height: 200px;
+	background-color: blue;
+	box-shadow: 15px 15px orange;
+}
+
+Note: you can also change the code by doing the following:
+
+box-shadow: 15px 15px 5px 7px orange; }	OR
+box-shadow: iset 0 0 15px black; }
+_____________________________________________
+
+	
+	

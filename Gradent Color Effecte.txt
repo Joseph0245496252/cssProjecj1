@@ -1,0 +1,51 @@
+Gradent Color Effect
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="nav.css">
+</head>
+<body>
+
+<div id="box1">
+
+</div>
+
+
+
+
+
+</body>
+</html> 
+
+CSS
+
+#box1 {
+	width: 800px;
+	height: 300px;
+	float: left;
+	background: blue;
+	c
+}
+
+note: you can alos change the codes by doing the following:
+
+#box1 {
+	width: 800px;
+	height: 300px;
+	float: left;
+	background: blue;
+	background: linear-gradient(blue, 50%, yellow 50%);
+}
+_______________________________________________
+
+Note: you can also change the code by doing the following:
+
+background: linear-gradient(blue, yellow); OR
+background: linear-gradient(to right blue, yellow); OR
+background: linear-gradient(to top right blue, yellow); OR
+background: linear-gradient(30deg, blue, yellow); OR
+background: linear-gradient(green, blue, yellow); OR
+background: linear-gradient(blue, yellow20%); and More
+_____________________________________________

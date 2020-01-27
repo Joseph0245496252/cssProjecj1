@@ -1,0 +1,12 @@
+	Adding Borders and mardins to your Image
+
+{ display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+	border-color: silver;
+	background-color: black;
+	border-width: 2px;
+	border-style: solid;
+
+}

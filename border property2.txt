@@ -1,0 +1,16 @@
+	Border property2
+
+{
+ border-color: blue;		Name 		
+ border-color: RGB;		RGB
+ border-color: #296A64;}	Hex code
+
+{
+ border-style: solid;
+ border-style: dashed;
+ border-style: dotted;
+ border-style: double;
+ border-style: groove;
+ border-style: ridge;
+ border-style: inset;
+ border-style: outset;

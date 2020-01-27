@@ -1,0 +1,4 @@
+	Background fram
+{border-color: aquamarine;
+	border-width: 4px;
+	border-style: solid;}

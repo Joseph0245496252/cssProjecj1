@@ -1,0 +1,10 @@
+		Adding Color and Boder to your Text
+
+{ color: purple;
+ 	font-size: 20px;
+	line-height: 1.5em;
+	background-color: #e5e4d7;
+	padding: 20px;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid; }

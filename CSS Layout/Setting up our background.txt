@@ -1,0 +1,10 @@
+Setting up our background
+
+body {
+	background-color: #9c9f84;
+	margin-right: 0px;
+	font-family: Verdana, Geogia, serif;
+	font-style: 14px;
+}
+	
+	

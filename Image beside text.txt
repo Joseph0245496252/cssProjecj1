@@ -1,0 +1,83 @@
+	Putting Image Beside Your Test 
+Html File
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" type="text/css" href="picture.css">
+	<title>picture to text</title>
+</head>
+<body>
+
+<div id="main">
+
+<p>
+	<img class="image" src="image/03.jpg"/>
+
+I respond to Joseph K. Asante. Stay in Nsawam in the Eastern Region.
+I am sincere, dedicated person with a Virtues woman and a beautiful baby.  I enjoy reading and teaching mostly. These has given me more knowledge that has strengthened my teaching and presentation skills.
+I have been successful at raising and teaching younger people in every aspect of life.
+I was born in 1989, 4th February, at Kwawu Mpraeso where I pursue Primary and Secondary School.
+Mr. Andrew Asante and Mrs. Beatrice Boaduwaah are my parents with Eight children. Six Female and Two Male which I happen to be the 5th.
+However, I enrolled in Affabico University College where I obtain my Diploma in Biblical Studies, I therefore feather to Degree, Masters and Doctorate at International Christian University (ICU). I also study IT at Soul Food ICT College where I obtain Diploma in Networking. It had been my heart desire to become a software developer and glory to be God am now student at Codetrain where I’m perceiving my dream as a programmer.
+I’m currently a lecturer and principal of Glorious Gospel Bible College.
+The outline of the courses I’ve studied in theology is as follows:
+
+I respond to Joseph K. Asante. Stay in Nsawam in the Eastern Region.
+I am sincere, dedicated person with a Virtues woman and a beautiful baby.  I enjoy reading and teaching mostly. These has given me more knowledge that has strengthened my teaching and presentation skills.
+I have been successful at raising and teaching younger people in every aspect of life.
+I was born in 1989, 4th February, at Kwawu Mpraeso where I pursue Primary and Secondary School.
+Mr. Andrew Asante and Mrs. Beatrice Boaduwaah are my parents with Eight children. Six Female and Two Male which I happen to be the 5th.
+However, I enrolled in Affabico University College where I obtain my Diploma in Biblical Studies, I therefore feather to Degree, Masters and Doctorate at International Christian University (ICU). I also study IT at Soul Food ICT College where I obtain Diploma in Networking. It had been my heart desire to become a software developer and glory to be God am now student at Codetrain where I’m perceiving my dream as a programmer.
+I’m currently a lecturer and principal of Glorious Gospel Bible College.
+The outline of the courses I’ve studied in theology is as follows:
+
+I respond to Joseph K. Asante. Stay in Nsawam in the Eastern Region.
+I am sincere, dedicated person with a Virtues woman and a beautiful baby.  I enjoy reading and teaching mostly. These has given me more knowledge that has strengthened my teaching and presentation skills.
+I have been successful at raising and teaching younger people in every aspect of life.
+I was born in 1989, 4th February, at Kwawu Mpraeso where I pursue Primary and Secondary School.
+Mr. Andrew Asante and Mrs. Beatrice Boaduwaah are my parents with Eight children. Six Female and Two Male which I happen to be the 5th.
+However, I enrolled in Affabico University College where I obtain my Diploma in Biblical Studies, I therefore feather to Degree, Masters and Doctorate at International Christian University (ICU). I also study IT at Soul Food ICT College where I obtain Diploma in Networking. It had been my heart desire to become a software developer and glory to be God am now student at Codetrain where I’m perceiving my dream as a programmer.
+I’m currently a lecturer and principal of Glorious Gospel Bible College.
+The outline of the courses I’ve studied in theology is as follows:
+
+I respond to Joseph K. Asante. Stay in Nsawam in the Eastern Region.
+I am sincere, dedicated person with a Virtues woman and a beautiful baby.  I enjoy reading and teaching mostly. These has given me more knowledge that has strengthened my teaching and presentation skills.
+I have been successful at raising and teaching younger people in every aspect of life.
+I was born in 1989, 4th February, at Kwawu Mpraeso where I pursue Primary and Secondary School.
+Mr. Andrew Asante and Mrs. Beatrice Boaduwaah are my parents with Eight children. Six Female and Two Male which I happen to be the 5th.
+However, I enrolled in Affabico University College where I obtain my Diploma in Biblical Studies, I therefore feather to Degree, Masters and Doctorate at International Christian University (ICU). I also study IT at Soul Food ICT College where I obtain Diploma in Networking. It had been my heart desire to become a software developer and glory to be God am now student at Codetrain where I’m perceiving my dream as a programmer.
+I’m currently a lecturer and principal of Glorious Gospel Bible College.
+The outline of the courses I’ve studied in theology is as follows:
+
+
+</p>
+
+</div>
+
+
+</body>
+</html>
+
+
+	CSS File
+
+body {
+	background-color: #9c9f84;
+	margin: 0px
+
+}
+
+#main{
+	background-color: #e5e4d7;
+	border-top-left-radius: 5px;
+	padding: 10px;
+	margin: 20px;
+
+}
+
+.image {
+	float: left;
+	margin-right: 10px;
+}

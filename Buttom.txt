@@ -1,0 +1,55 @@
+Button property
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="nav.css">
+</head>
+<body>
+
+
+<ul> 
+	<li><a class="button" href="">Home</a></li>
+	<li><a class="button" href="">Links</a></li>
+	<li><a class="button" href="">Forum</a></li>
+	<li><a class="button" href="">About</a></li>
+</ul>
+ 
+</body>
+</html>
+
+CSS
+
+.button {
+	background-color: #e7e7e7;
+	border: 1px solid;
+	border-radius: 3px;
+	font: 700 13px Helvetica,Arial;
+	height: 30px;
+	line-height: 28px;
+	padding: 0 20px;
+	text-align: center;
+	margin-right: 10px;
+	box-sizing: border-box;
+}
+
+ul {
+	padding: 0;
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	color: #666;
+	text-decoration: none;
+	float: left;
+}
+
+a:hover {
+	color: #000;
+	background-color: #dadada;
+}

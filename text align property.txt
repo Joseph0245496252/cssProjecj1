@@ -1,0 +1,5 @@
+	Text align property
+
+{text-align: center;
+  text-align: right;
+  text-align: left;}

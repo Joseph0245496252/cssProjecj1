@@ -1,0 +1,49 @@
+Hopacity Box effect
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="nav.css">
+</head>
+<body>
+
+<div id="box1">
+
+</div>
+
+<div id="box2">
+	
+</div>
+
+
+
+
+</body>
+</html> 
+
+CSS
+
+#box1 {
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding: 15px;
+	margin: 10px;
+	background-color: blue;
+}
+
+#box2 {
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding: 15px;
+	margin: 10px;
+	background-color: blue;
+	opacity: 0.5;
+} 
+
+#box2:hover {
+	opacity: 1.0;
+}
+

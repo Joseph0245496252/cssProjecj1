@@ -1,0 +1,17 @@
+	Link Inside your web page
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="syleheet.css">
+</head>
+<body>
+	<div id= "divmain"
+	<h1> Magaladon </div>
+
+<p class="paragraph"> magaladon was the largest shark ever found in the fossil record. It ruled the seas during it's heyday. Magaladon may have reached up to 80 feet in lenth. The shark's bite force was greater than a T-Rex, </p>
+
+</div>
+
+</body>
+</html>

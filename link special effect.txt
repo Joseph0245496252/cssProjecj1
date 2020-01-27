@@ -1,0 +1,12 @@
+	Adding effect to your link
+a:link {
+	color: blue;
+}
+
+a:visited { 
+	color: #8C8c9D;
+}
+
+a:hover {
+	color: #F15A51;
+}

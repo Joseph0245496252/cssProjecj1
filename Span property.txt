@@ -1,0 +1,19 @@
+	Span Html Element
+Span is used to highlight or color a text line inside your Html.
+
+	Inside Your Html
+<span class= "highlight">
+
+</span>
+
+	Inside your Css
+.highlight{background-color: #ffff00;}
+
+#ffff00 is color Yellow
+
+You can also color inside the Html text by using this code:
+
+<span style="color: red">
+
+</span>
+
